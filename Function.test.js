@@ -1,0 +1,1 @@
+const funciton=require('./Function');
